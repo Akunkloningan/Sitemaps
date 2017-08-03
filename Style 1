@@ -8,6 +8,11 @@
 // ascending and descending, and can be filtered by
 // label.
 // ---------------------------------------------------
+// Author: Syed Faizan Ali
+// Url: http://www.mybloggerlab.com
+// Version: 2
+// Date: 2007-04-12
+// ---------------------------------------------------
 // global arrays
 
    var postTitle = new Array();     // array of posttitles
